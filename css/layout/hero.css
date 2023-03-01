@@ -1,0 +1,29 @@
+.hero { 
+
+}
+
+.hero__container {
+  margin-bottom: 10%;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.hero__content { 
+  width: 50%;
+}
+
+.hero__title { 
+  margin-bottom: 5%;
+}
+
+.hero__text { 
+  margin-bottom: 8%;
+  max-width: 65%;
+}
+.hero__button { }
+
+.hero__image-container { 
+  width: 50%;
+}

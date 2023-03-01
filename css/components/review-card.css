@@ -1,0 +1,23 @@
+.review-card { 
+  max-width: 520px;
+  text-align: center;
+}
+
+.review-card__customer-photo { 
+  width: 75px;
+  position: relative;
+  top: 40px;
+}
+
+.review-card__content {
+  padding: 50px 30px 30px;
+  text-align: center;
+  background-color: hsl(0, 0%, 98%);
+}
+
+.review-card__customer-name { 
+  margin-bottom: 3%;
+  font-weight: 700;
+  color: hsl(228, 39%, 23%);
+}
+.review-card__review-text { }

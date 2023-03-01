@@ -1,0 +1,17 @@
+.title {
+  font-weight: 700;
+  line-height: 1.25;
+  color: hsl(228, 39%, 23%);
+}
+
+.title_main {
+  font-size: 3.375rem;
+}
+
+.title_regular {
+  font-size: 2.375rem;
+}
+
+.title_inverted-colors {
+  color: hsl(0, 0%, 100%);
+}

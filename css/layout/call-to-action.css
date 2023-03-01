@@ -1,0 +1,26 @@
+.call-to-action { 
+  position: relative;
+  isolation: isolate;
+  margin-top: 10%;
+  padding: 4% 0;
+  background-color: hsl(12, 88%, 59%);
+  background-image: url(/img/background-images/bg-simplify-section-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  /* background-size: cover; */
+}
+
+.call-to-action__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.call-to-action__title { 
+  width: 45%;
+}
+.title { }
+.title_regular { }
+.title_inverted-colors { }
+.call-to-action__button { }
+.button { }

@@ -1,0 +1,18 @@
+.header { 
+  padding-top: 65px;
+  margin-bottom: 100px;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__list { 
+  display: flex;
+  gap: 2rem;
+  font-size: 0.75rem;
+  font-weight: 700;  
+  color: hsl(233, 12%, 13%);
+}
